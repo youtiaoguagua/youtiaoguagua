@@ -13,7 +13,7 @@ jobs:
       - name: Download
         run: env
 
-      - uses: anmol098/waka-readme-stats@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+#      - uses: anmol098/waka-readme-stats@master
+#        with:
+#          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+#          GH_TOKEN: ${{ secrets.GH_TOKEN }}
