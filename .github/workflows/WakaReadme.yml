@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Download
-        run: echo secrets.WAKATIME_API_KEY
+        run: echo ${{ secrets.WAKATIME_API_KEY }}
 #      - uses: anmol098/waka-readme-stats@master
 #        with:
 #          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
