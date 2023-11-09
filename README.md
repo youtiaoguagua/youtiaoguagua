@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C118%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C119%20hrs%2018%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -42,16 +42,27 @@ Sunday                   160 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     11 hrs 57 mins      █████████████████░░░░░░░░   68.49 % 
+XML                      2 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
+view-xml                 1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
+TypeScript               42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+Go                       23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 16 hrs 34 mins      ████████████████████████░   94.91 % 
+DataGrip                 29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+GoLand                   23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+ep-trade                 9 hrs 52 mins       ██████████████░░░░░░░░░░░   56.51 % 
+ep-contract              4 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   26.03 % 
+ep-item                  2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+zhongjian                29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+clear                    23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      17 hrs 4 mins       ████████████████████████░   97.74 % 
+Windows                  23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
 ```
 
 **I Mostly Code in Java** 
@@ -71,5 +82,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/youtiaoguagua/youtiaoguagua/master/assets/bar_graph.png)
 
 
- Last Updated on 08/11/2023 18:38:06 UTC
+ Last Updated on 09/11/2023 18:37:56 UTC
 <!--END_SECTION:waka-->
