@@ -7,8 +7,6 @@
 
 > 📦 43.8 kB Used in GitHub's Storage 
  > 
-> 🏆 16 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 31 Public Repositories 
@@ -80,5 +78,5 @@ Kotlin                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/youtiaoguagua/youtiaoguagua/master/assets/bar_graph.png)
 
 
- Last Updated on 20/02/2024 18:38:14 UTC
+ Last Updated on 21/02/2024 18:37:24 UTC
 <!--END_SECTION:waka-->
