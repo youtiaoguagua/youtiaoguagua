@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C480%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C484%20hrs%2046%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -42,16 +42,20 @@ Sunday                   259 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Kotlin                   3 hrs 18 mins       ████████████████████░░░░░   80.17 % 
+XML                      41 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
+Java Properties          5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+TOML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 hrs 6 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+PayMonitor               4 hrs 5 mins        █████████████████████████   99.29 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  4 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -71,5 +75,5 @@ Rust                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/youtiaoguagua/youtiaoguagua/master/assets/bar_graph.png)
 
 
- Last Updated on 04/06/2026 20:35:58 UTC
+ Last Updated on 05/06/2026 20:28:29 UTC
 <!--END_SECTION:waka-->
