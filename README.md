@@ -42,16 +42,22 @@ Sunday                   259 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       1 hr 20 mins        █████████████████░░░░░░░░   66.05 % 
+Markdown                 21 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
+Git Config               15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+GitIgnore file           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+go.mod                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+GoLand                   1 hr 13 mins        ███████████████░░░░░░░░░░   60.15 % 
+VS Code                  32 mins             ███████░░░░░░░░░░░░░░░░░░   26.76 % 
+Claude Code              15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+prologue_of_fate_server  2 hrs 1 min         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -71,5 +77,5 @@ Rust                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/youtiaoguagua/youtiaoguagua/master/assets/bar_graph.png)
 
 
- Last Updated on 07/07/2026 20:27:03 UTC
+ Last Updated on 08/07/2026 20:05:44 UTC
 <!--END_SECTION:waka-->
