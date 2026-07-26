@@ -67,11 +67,11 @@ Windows                  36 hrs 26 mins      ███████████�
 **I Mostly Code in Go** 
 
 ```text
-Go                       14 repos            █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
-TypeScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
-Dockerfile               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
-Rust                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+Go                       14 repos            ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+TypeScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
+Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+Dockerfile               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+Rust                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 ```
 
 
@@ -81,5 +81,5 @@ Rust                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/youtiaoguagua/youtiaoguagua/master/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 19:44:46 UTC
+ Last Updated on 26/07/2026 19:46:06 UTC
 <!--END_SECTION:waka-->
