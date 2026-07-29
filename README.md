@@ -1,4 +1,8 @@
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C443%20hrs%2029%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-156%20hrs%2041%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -40,48 +44,48 @@ Sunday                   259 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               12 hrs 20 mins      ████████░░░░░░░░░░░░░░░░░   32.90 % 
-Go                       11 hrs 31 mins      ████████░░░░░░░░░░░░░░░░░   30.74 % 
-Markdown                 6 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
-Other                    1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
-Bash                     1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+TypeScript               19 hrs 43 mins      █████████████░░░░░░░░░░░░   51.49 % 
+Markdown                 7 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
+Go                       5 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+YAML                     1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
+Bash                     1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
 
 🔥 Editors: 
-VS Code                  31 hrs 46 mins      █████████████████████░░░░   84.71 % 
-GoLand                   5 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
-DataGrip                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+VS Code                  34 hrs 51 mins      ███████████████████████░░   90.96 % 
+GoLand                   3 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
 
 🐱‍💻 Projects: 
-asset_factory            22 hrs 13 mins      ███████████████░░░░░░░░░░   59.25 % 
-prologue_of_fate_server  14 hrs 40 mins      ██████████░░░░░░░░░░░░░░░   39.13 % 
-CLIProxyAPI              13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
-new-api                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
-Unknown Project          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+asset_factory            31 hrs 30 mins      █████████████████████░░░░   82.21 % 
+prologue_of_fate_server  6 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
+CLIProxyAPI              13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+new-api                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 💻 Operating System: 
-Windows                  37 hrs 30 mins      █████████████████████████   100.00 % 
+Windows                  38 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 32 hrs 49 mins (87.52%)
+⏱ AI Coding Time: 34 hrs 1 min (88.78%)
 
-✍️ 36,517 lines written by AI, 152 lines written by hand (99.59% AI-written)
+✍️ 33,322 lines written by AI, 149 lines written by hand (99.55% AI-written)
 
-🔤 1,088,150,979 Input Tokens, 3,964,489 Output Tokens
+🔤 1,821,937,487 Input Tokens, 6,327,360 Output Tokens
 
-💵 $2957.54 Estimated AI Cost This Week
+💵 $3272.35 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 541 AI Prompts
+🧠 27 AI Sessions, 525 AI Prompts
 
-GPT                      39,914 lines        █████████████████████████   100.00 % 
+GPT                      36,845 lines        █████████████████████████   100.00 % 
+Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.59% of written lines came from AI
-📝 Concise Prompter — average 75 characters per prompt
-🔁 Iterative Prompter — average 25 prompts per session
-🚀 High AI Trust — 1.3% of changed lines were hand-edited
+🤖 AI-Driven — 99.55% of written lines came from AI
+📝 Concise Prompter — average 119 characters per prompt
+🔁 Iterative Prompter — average 19 prompts per session
+🚀 High AI Trust — 1.25% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Go** 
@@ -101,5 +105,5 @@ Rust                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/youtiaoguagua/youtiaoguagua/master/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2026 20:02:58 UTC
+ Last Updated on 29/07/2026 19:54:40 UTC
 <!--END_SECTION:waka-->
