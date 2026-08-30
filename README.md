@@ -44,41 +44,41 @@ Sunday                   259 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               28 hrs 34 mins      ██████████████████░░░░░░░   72.48 % 
-CSS                      3 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
-Markdown                 3 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
-JSON                     1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
-Other                    1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+TypeScript               26 hrs 42 mins      ██████████████████░░░░░░░   71.13 % 
+CSS                      3 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
+Markdown                 3 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
+JSON                     1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+Other                    1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
 
 🔥 Editors: 
-VS Code                  18 hrs 40 mins      ████████████░░░░░░░░░░░░░   47.38 % 
-Codex Vscode             18 hrs 18 mins      ████████████░░░░░░░░░░░░░   46.45 % 
-Antigravity Desktop      2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
+Codex Vscode             18 hrs 18 mins      ████████████░░░░░░░░░░░░░   48.76 % 
+VS Code                  17 hrs 54 mins      ████████████░░░░░░░░░░░░░   47.70 % 
+Antigravity Desktop      1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
 
 🐱‍💻 Projects: 
-asset_factory_v2         30 hrs 44 mins      ████████████████████░░░░░   78.01 % 
-asset_factory            7 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
-pnpm-i-error-pnpm-v11-12 23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
-ego-browser-openai-anthro22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
-users-youtiaoguagua-downl5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+asset_factory_v2         30 hrs 44 mins      ████████████████████░░░░░   81.90 % 
+asset_factory            5 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
+pnpm-i-error-pnpm-v11-12 23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+ego-browser-openai-anthro22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+users-youtiaoguagua-downl5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 💻 Operating System: 
-Mac                      31 hrs 46 mins      ████████████████████░░░░░   80.63 % 
-Windows                  7 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   19.37 % 
+Mac                      31 hrs 46 mins      █████████████████████░░░░   84.65 % 
+Windows                  5 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 34 hrs 53 mins (88.52%)
+⏱ AI Coding Time: 33 hrs 14 mins (88.52%)
 
-✍️ 9,887 lines written by AI, 454 lines written by hand (95.61% AI-written)
+✍️ 9,887 lines written by AI, 453 lines written by hand (95.62% AI-written)
 
-🔤 501,888,540 Input Tokens, 4,252,291 Output Tokens
+🔤 501,867,831 Input Tokens, 4,252,179 Output Tokens
 
-💵 $2842.97 Estimated AI Cost This Week
+💵 $2842.92 Estimated AI Cost This Week
 
-🧠 68 AI Sessions, 567 AI Prompts
+🧠 65 AI Sessions, 532 AI Prompts
 
 Gemini                   6,538 lines         ███████████████░░░░░░░░░░   58.69 % 
 Glm                      2,382 lines         █████░░░░░░░░░░░░░░░░░░░░   21.38 % 
@@ -87,10 +87,10 @@ Codex-Vscode             40 lines            ░░░░░░░░░░░�
 K                        38 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.61% of written lines came from AI
-📄 Detailed Prompter — average 641 characters per prompt
+🤖 AI-Driven — 95.62% of written lines came from AI
+📄 Detailed Prompter — average 673 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 6.7% of changed lines were hand-edited
+🚀 High AI Trust — 6.45% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Go** 
@@ -110,5 +110,5 @@ Rust                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/youtiaoguagua/youtiaoguagua/master/assets/bar_graph.png)
 
 
- Last Updated on 29/08/2026 21:08:26 UTC
+ Last Updated on 30/08/2026 21:25:24 UTC
 <!--END_SECTION:waka-->
