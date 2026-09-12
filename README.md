@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C765%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C773%20hrs%207%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-459%20hrs%2023%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-467%20hrs%206%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -44,52 +44,52 @@ Sunday                   259 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               34 hrs 13 mins      ██████████████░░░░░░░░░░░   55.02 % 
-Markdown                 18 hrs 35 mins      ███████░░░░░░░░░░░░░░░░░░   29.89 % 
-CSS                      3 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
-JSON                     2 hrs 18 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
-HTML                     1 hr 12 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+TypeScript               29 hrs 4 mins       ███████████████░░░░░░░░░░   58.63 % 
+Markdown                 14 hrs 24 mins      ███████░░░░░░░░░░░░░░░░░░   29.04 % 
+JSON                     1 hr 59 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+SQL                      57 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+Bash                     50 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
 
 🔥 Editors: 
-Codex Vscode             44 hrs 6 mins       ██████████████████░░░░░░░   70.92 % 
-VS Code                  16 hrs 40 mins      ███████░░░░░░░░░░░░░░░░░░   26.80 % 
-Open                     1 hr 5 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
-Codex Exec               19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+Codex Vscode             35 hrs 49 mins      ██████████████████░░░░░░░   72.23 % 
+VS Code                  12 hrs 54 mins      ███████░░░░░░░░░░░░░░░░░░   26.02 % 
+Open                     39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+Codex Exec               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 🐱‍💻 Projects: 
-asset_factory_v2         60 hrs 25 mins      ████████████████████████░   97.14 % 
-asset-factory-5606       40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
-test1                    17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
-7d8687cf-01f7-4e44-afe0-e14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
-whale-iam                12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+asset_factory_v2         48 hrs 16 mins      ████████████████████████░   97.34 % 
+asset-factory-5606       27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+test1                    17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+whale-iam                12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+cha                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 
 💻 Operating System: 
-Mac                      62 hrs 11 mins      █████████████████████████   100.00 % 
+Mac                      49 hrs 35 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 59 hrs 43 mins (96.03%)
+⏱ AI Coding Time: 47 hrs 44 mins (96.27%)
 
-✍️ 23,956 lines written by AI, 490 lines written by hand (98.0% AI-written)
+✍️ 21,491 lines written by AI, 263 lines written by hand (98.79% AI-written)
 
-🔤 528,406,966 Input Tokens, 13,715,474 Output Tokens
+🔤 509,498,459 Input Tokens, 12,244,844 Output Tokens
 
-💵 $2948.21 Estimated AI Cost This Week
+💵 $2586.81 Estimated AI Cost This Week
 
-🧠 166 AI Sessions, 783 AI Prompts
+🧠 138 AI Sessions, 644 AI Prompts
 
-GPT                      26,213 lines        █████████████████████████   99.01 % 
-Gemini                   190 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
-Codex-Vscode             71 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+GPT                      23,137 lines        █████████████████████████   99.28 % 
+Gemini                   97 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+Codex-Vscode             71 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 Open                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.0% of written lines came from AI
-📄 Detailed Prompter — average 1,476 characters per prompt
+🤖 AI-Driven — 98.79% of written lines came from AI
+📄 Detailed Prompter — average 1,322 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 2.71% of changed lines were hand-edited
+🚀 High AI Trust — 1.3% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Go** 
@@ -109,5 +109,5 @@ Rust                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/youtiaoguagua/youtiaoguagua/master/assets/bar_graph.png)
 
 
- Last Updated on 11/09/2026 21:13:20 UTC
+ Last Updated on 12/09/2026 20:52:27 UTC
 <!--END_SECTION:waka-->
