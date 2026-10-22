@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C957%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C963%20hrs%2034%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-645%20hrs%208%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-649%20hrs-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -44,50 +44,50 @@ Sunday                   264 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               10 hrs 10 mins      ████████░░░░░░░░░░░░░░░░░   32.86 % 
-Markdown                 10 hrs 6 mins       ████████░░░░░░░░░░░░░░░░░   32.65 % 
-Bash                     2 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-JSON                     1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
-GDScript3                1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
+Markdown                 11 hrs 25 mins      ██████████░░░░░░░░░░░░░░░   41.01 % 
+TypeScript               6 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   23.19 % 
+Bash                     2 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
+JSON                     1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+GDScript3                1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
 
 🔥 Editors: 
-Codex Vscode             17 hrs 16 mins      ██████████████░░░░░░░░░░░   55.86 % 
-VS Code                  13 hrs 39 mins      ███████████░░░░░░░░░░░░░░   44.14 % 
+VS Code                  14 hrs 28 mins      █████████████░░░░░░░░░░░░   52.02 % 
+Codex Vscode             13 hrs 21 mins      ████████████░░░░░░░░░░░░░   47.98 % 
 
 🐱‍💻 Projects: 
-asset_factory_v2         19 hrs 26 mins      ████████████████░░░░░░░░░   62.81 % 
-game_factory             8 hrs 30 mins       ███████░░░░░░░░░░░░░░░░░░   27.48 % 
-game-temp                1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
-cnb2api-relay            23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
-story_engine             16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+game_factory             12 hrs 54 mins      ████████████░░░░░░░░░░░░░   46.36 % 
+asset_factory_v2         11 hrs 55 mins      ███████████░░░░░░░░░░░░░░   42.82 % 
+game-temp                1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+cnb2api-relay            23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+story_engine             16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
 
 💻 Operating System: 
-Mac                      30 hrs 49 mins      █████████████████████████   99.65 % 
-Windows                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Mac                      27 hrs 44 mins      █████████████████████████   99.61 % 
+Windows                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 24 hrs 5 mins (77.84%)
+⏱ AI Coding Time: 19 hrs 43 mins (70.86%)
 
-✍️ 18,987 lines written by AI, 432 lines written by hand (97.78% AI-written)
+✍️ 11,982 lines written by AI, 527 lines written by hand (95.79% AI-written)
 
-🔤 36,648,755 Input Tokens, 3,278,979 Output Tokens
+🔤 26,652,958 Input Tokens, 2,363,354 Output Tokens
 
-💵 $1268.91 Estimated AI Cost This Week
+💵 $985.57 Estimated AI Cost This Week
 
-🧠 137 AI Sessions, 443 AI Prompts
+🧠 104 AI Sessions, 340 AI Prompts
 
-GPT                      20,048 lines        █████████████████████████   98.15 % 
-Codex-Vscode             378 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+GPT                      12,650 lines        █████████████████████████   98.39 % 
+Codex-Vscode             207 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.78% of written lines came from AI
-📄 Detailed Prompter — average 1,055 characters per prompt
+🤖 AI-Driven — 95.79% of written lines came from AI
+📄 Detailed Prompter — average 998 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 5.45% of changed lines were hand-edited
+🚀 High AI Trust — 8.79% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Go** 
@@ -107,5 +107,5 @@ Rust                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/youtiaoguagua/youtiaoguagua/master/assets/bar_graph.png)
 
 
- Last Updated on 21/10/2026 22:00:50 UTC
+ Last Updated on 22/10/2026 21:58:00 UTC
 <!--END_SECTION:waka-->
